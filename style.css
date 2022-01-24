@@ -1,4 +1,20 @@
-.header {
+.header,
+.index-links {
   text-align: center;
+}
+
+.header {
   font-family: monospace, sans-serif;
+}
+
+.index-links {
+  list-style-type: none;
+}
+
+.ingredients {
+  background-color: rgb(223, 255, 225);
+}
+
+.directions {
+  background-color: rgba(184, 221, 255, 0.671);
 }
